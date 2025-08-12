@@ -1,0 +1,7 @@
+{
+  "block.createaddition.electrum_block": "琥珀金块",
+  "block.createaddition.bioethanol": "乙醇",
+  "item.createaddition.bioethanol_bucket": "乙醇桶",
+  "item.createaddition.bioethanol_bucket.tooltip": "乙醇桶",
+  "fluid.createaddition.bioethanol": "乙醇"
+}
