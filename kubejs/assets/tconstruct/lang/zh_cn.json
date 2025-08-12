@@ -1,0 +1,11 @@
+{
+    "block.tconstruct.steel_block": "蓝钢块",
+    "item.tconstruct.steel_ingot": "蓝钢锭",
+    "item.tconstruct.steel_nugget": "蓝钢粒",
+    "block.tconstruct.molten_steel_fluid": "熔融蓝钢",
+    "fluid.tconstruct.molten_steel": "熔融蓝钢",
+    "fluid.tconstruct.flowing_molten_steel": "流动的熔融蓝钢",
+    "item.tconstruct.molten_steel_bucket": "熔融蓝钢桶",
+    "fluid.tconstruct.molten_steel.fluid_effect": "熔融蓝钢能清理你周围的敌人，也可以分散聚集的敌人。",
+    "material.tconstruct.steel": "蓝钢"
+}

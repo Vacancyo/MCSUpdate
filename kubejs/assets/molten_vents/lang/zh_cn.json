@@ -1,0 +1,15 @@
+{
+  "block.molten_vents.active_molten_asurine": "活性熔融皓蓝石",
+  "block.molten_vents.active_molten_veridium": "活性熔融辉绿岩",
+  "block.molten_vents.active_molten_crimsite": "活性熔融绯红岩",
+  "block.molten_vents.active_molten_ochrum": "活性熔融赭金砂",
+  "block.molten_vents.active_molten_scorchia": "活性熔融焦黑熔渣",
+  "block.molten_vents.active_molten_scoria": "活性熔融熔渣",
+
+  "block.molten_vents.dormant_molten_asurine": "休眠熔融皓蓝石",
+  "block.molten_vents.dormant_molten_veridium": "休眠熔融辉绿岩",
+  "block.molten_vents.dormant_molten_crimsite": "休眠熔融绯红岩",
+  "block.molten_vents.dormant_molten_ochrum": "休眠熔融赭金砂",
+  "block.molten_vents.dormant_molten_scorchia": "休眠熔融焦黑熔渣",
+  "block.molten_vents.dormant_molten_scoria": "休眠熔融熔渣"
+}
